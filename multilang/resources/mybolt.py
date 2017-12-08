@@ -7,8 +7,8 @@ import boto3
 import re
 import json
 
-ACCESS_KEY="AKIAJ4PR7T5JL5PU73VQ"
-SECRET_KEY="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"
+ACCESS_KEY="<ACCESS_KEY>"
+SECRET_KEY="<SECRET_KEY>"
 REGION="us-east-2"
 
 # today = date.today()
